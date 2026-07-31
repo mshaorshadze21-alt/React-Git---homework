@@ -40,8 +40,7 @@ React CSS JavaScript (ES6)
 npm install
 npm run dev
 
-
-
+screenshots
 
 
 
